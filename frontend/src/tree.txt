@@ -1,0 +1,32 @@
+Folder PATH listing
+Volume serial number is 52EF-090B
+C:.
+³   App.jsx
+³   main.jsx
+³   tree.txt
+³   
+ÃÄÄÄassets
+³       react.svg
+³       
+ÃÄÄÄcomponents
+³       MovieCard.jsx
+³       NavBar.jsx
+³       
+ÃÄÄÄcontexts
+³       MovieContext.jsx
+³       
+ÃÄÄÄcss
+³       App.css
+³       Favorites.css
+³       Home.css
+³       index.css
+³       MovieCard.css
+³       Navbar.css
+³       
+ÃÄÄÄpages
+³       Favorites.jsx
+³       Home.jsx
+³       
+ÀÄÄÄservices
+        api.js
+        
